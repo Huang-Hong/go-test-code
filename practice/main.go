@@ -10,6 +10,11 @@ func main()  {
 	stringArray()
 	myStruct()
 	myFunction()
+	myMethod()
+	errHandler()
+	myDefer()
+	testGoRoutine()
+	testChnnel()
 }
 
 func init()  {

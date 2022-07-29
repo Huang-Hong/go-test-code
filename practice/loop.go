@@ -21,6 +21,15 @@ func stringArray()  {
 		}
 		fmt.Printf("%s ", myString[i] )
 	}
+
+	//无限循环
+	// for {
+	// 	if condition1 {
+	// 		break
+	// 	} 
+	// }
+
 	fmt.Printf("\n")
+
 
 }

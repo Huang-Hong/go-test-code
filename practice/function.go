@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //多返回值函数
-func multiReturnValueFunc(a int, b int) (c int, d int){
+func multiReturnValueFunc(a int, b int) (int, int){
 	var A = a + 1
 	var B = b + 1
 	return A, B 
